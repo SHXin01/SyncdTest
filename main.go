@@ -5,11 +5,7 @@
 // -------------------------------------------
 package main
 
-<<<<<<< HEAD
 const version = "V 1.0.2"
-=======
-const version = "V 1.0.1"
->>>>>>> origin/main
 
 func main() {
 	println(version)

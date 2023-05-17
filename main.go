@@ -5,7 +5,7 @@
 // -------------------------------------------
 package main
 
-const version = "V 1.0.1"
+const version = "V 1.0.2"
 
 func main() {
 	println(version)
